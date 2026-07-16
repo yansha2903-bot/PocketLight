@@ -1,4 +1,4 @@
-# Mini Flashlight
+# Pocket Flashlight
 
 A small pocket flashlight built around the ATtiny412.
 
