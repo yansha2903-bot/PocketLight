@@ -40,3 +40,5 @@ This project helped me understand:
 - working with the ATtiny412
 - reading input from a photoresistor
 - controlling an LED with a microcontroller
+  <img width="2560" height="1398" alt="2026-07-16_12-31-07" src="https://github.com/user-attachments/assets/ae08c132-9651-4977-b497-db4ac8ee0fc6" />
+
